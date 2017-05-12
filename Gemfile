@@ -23,7 +23,7 @@ gem 'turbolinks'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 
 gem 'atmosphere',
-    github: 'dice-cyfronet/atmosphere',
+    github: 'Lebrero-CETEIN/atmosphere',
     branch: 'master'
 
 # gem 'active_model_serializers', '0.8.1'
