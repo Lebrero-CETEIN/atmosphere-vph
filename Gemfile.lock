@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/dice-cyfronet/atmosphere.git
+  remote: git://github.com/Lebrero-CETEIN/atmosphere.git
   revision: da7b837e493708064a888a735bbc93cf2f3d941c
   branch: master
   specs:
