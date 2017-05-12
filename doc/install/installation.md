@@ -261,7 +261,9 @@ sudo -u atmosphere -H editor /home/atmosphere/current/config/initializers/action
 Clone atmosphere code locally (e.g. on your laptop):
 
 ```
-git clone https://github.com/VPH-Share/atmosphere-vph.git
+# git clone https://github.com/VPH-Share/atmosphere-vph.git <-- original reposotory
+git clone https://github.com/Lebrero-CETEIN/atmosphere-vph.git <-- my public reposotory @ GitHub
+
 ```
 
 Generate two random secrets locally:
