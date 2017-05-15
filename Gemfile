@@ -22,7 +22,7 @@ gem 'turbolinks'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0',          group: :doc
 
-gem 'atmosphere-vph',
+gem 'atmosphere',
     github: 'Lebrero-CETEIN/atmosphere-vph',
     branch: 'master'
 
